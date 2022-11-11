@@ -1,6 +1,8 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9296434&assignment_repo_type=AssignmentRepo)
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+## Nama : Mukhtarijal   NIM : 21343009   Prodi : Informatika
+Pada pertemuan kali ini saya belajar tentang OOPs (Object-oriented Programming System), yaitu model pemrograman komputer yang mengatur desain perangkat lunak yang berfokus pada data atau objek dibandingkan hanya berfokus pada fungsi dan logika. Ada 6 OOPs yaitu 
+1.Object, yaitu sebuah variabel instance yang merupakan wujud dari class
+2.Class, yaitu cetak biru atau blueprint dari object
+3.Inheritance, yaitu membentuk class baru yang memiliki fungsi turunan dan mirip dengan fungsi yang ada pada class induk
+4.Polymorpism, yaitu konsep dimana suatu interface tunggal digunakan pada entity yang berbeda-beda, atau penggunaan suatu symbol tunggal untuk mewakili beberapa jenis tipe entity
+5.Interface, yaitu konsep dimana kita dapat mengatur sebuah kompleksitas dalam sebuah struktur code
+6.Encapsulation, yaitu konsep tentang pengikatan data atau metode berbeda yang disatukan atau “dikapsulkan” menjadi satu unit data
